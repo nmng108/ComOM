@@ -1,0 +1,45 @@
+// Search with predicate like "không có nhiều sự khác biệt" (~ < 20 results)
+[{"index":2703,"sentence":"Nhìn chung , về thiết kế của iPhone 14 thì không có sự khác biệt gì quá nhiều so với phiên bản tiền nhiệm là iPhone 13 .","subject":"iPhone 14","object":"iPhone 13","aspect":"thiết kế","predicate":"không có sự khác biệt gì quá nhiều","label":"EQL"},{"index":2711,"sentence":"So với iPhone 13 , thì rất khó để nhận ra sự khác biệt giữa 2 thế hệ này qua vẻ bề ngoài , thậm chí ngay cả những phần mềm bên trong cũng không có quá nhiều sự khác biệt .","subject":"2 thế hệ này","object":"2 thế hệ này","aspect":"những phần mềm bên trong","predicate":"không có quá nhiều sự khác biệt","label":"EQL"},{"index":2755,"sentence":"Tương tự , thì ống kính góc rộng không có quá nhiều sự khác biệt so với ống kính chính .","subject":"ống kính góc rộng","object":"ống kính chính","aspect":"","predicate":"không có quá nhiều sự khác biệt","label":"EQL"},{"index":3082,"sentence":"Hai bộ vi xử lý này cũng không có sự khác biệt nhiều về hiệu năng .","subject":"Hai bộ vi xử lý này","object":"Hai bộ vi xử lý này","aspect":"hiệu năng","predicate":"không có sự khác biệt nhiều","label":"EQL"},{"index":3146,"sentence":"Kích thước của 2 dòng điện thoại thoại không có quá nhiều sự khác biệt , đều đem đến cho người sử dụng cảm giác mỏng nhẹ và dễ dàng cầm nắm .","subject":"2 dòng điện thoại","object":"2 dòng điện thoại","aspect":"Kích thước","predicate":"không có quá nhiều sự khác biệt","label":"EQL"},{"index":3732,"sentence":"Về cơ bản thì tiện ích được tích hợp trong cả hai sản phẩm không có nhiều sự khác biệt .","subject":"cả hai sản phẩm","object":"cả hai sản phẩm","aspect":"tiện ích","predicate":"không có nhiều sự khác biệt","label":"EQL"},{"index":4407,"sentence":"Các thông số màn hình chính của Oppo Find N2 Flip và Z Flip 4 không có nhiều sự khác biệt .","subject":"Oppo Find N2 Flip","object":"Z Flip 4","aspect":"thông số màn hình chính","predicate":"không có nhiều sự khác biệt","label":"EQL"},{"index":4438,"sentence":"Do sức mạnh đến từ bộ vi xử lý tương tự nhau nên không có nhiều sự khác biệt về khả năng tiết kiệm điện năng .","subject":"","object":"","aspect":"khả năng tiết kiệm điện năng","predicate":"không có nhiều sự khác biệt","label":"DIF"},{"index":4442,"sentence":"des : Không có nhiều sự khác biệt về khả năng tiết kiệm điện năng","subject":"","object":"","aspect":"khả năng tiết kiệm điện năng","predicate":"Không có nhiều sự khác biệt","label":"EQL"}]
+
+// EQL or COM(-) ?
+[{"index":1749,"sentence":"Trong khi đó , Realme 8 5G cũng sở hữu màn hình đục lỗ nhưng camera trước của nó nằm ở góc trên cùng bên trái nên không đẹp và đối xứng như Redmi Note 11 .","subject":"Realme 8 5G","object":"Redmi Note 11","aspect":"camera trước","predicate":"không đẹp và đối xứng như","label":"EQL"}]
+
+// Search with predicate like "không còn" (2 result)
+[{"index":1143,"sentence":"Mặc dù vậy , cảm giác mở máy không còn như xưa nữa .","subject":"","object":"","aspect":"cảm giác mở máy","predicate":"không còn như xưa","label":"DIF"},{"index":1176,"sentence":"Tuy nhiên với vật liệu mới , vết hằn này không còn sâu như trên Galaxy Fold năm ngoái nữa .","subject":"","object":"Galaxy Fold năm ngoái","aspect":"vết hằn này","predicate":"không còn sâu như","label":"COM+"}]
+
+// Predicates of 'DIF':
+['hiếm có chiếc điện thoại nào trên thị trường có thể làm được' 'thiếu'
+ 'ngược lại' 'khác biệt dễ nhận thấy' 'không hoàn toàn ngang bằng'
+ 'chênh lệch rõ ràng' 'không có' 'lột xác hoàn toàn'
+ 'không bị ngả sang tone vàng như' 'không bị bệt hay mất chi tiết như'
+ 'sự thay đổi đáng kể' 'khác biệt'
+ 'một trong những điểm khác biệt dễ thấy nhất' 'sự khác biệt đáng kể'
+ 'không còn như xưa' 'không đều'
+ 'không có khả năng sạc nhanh vượt trội như' 'khác biệt rõ ràng'
+ 'không giống như' 'Khác biệt' 'điểm khác biệt lớn nhất' 'rất khác nhau'
+ 'khác biệt đáng kể' 'Khác' 'có một khoảng cách' 'thay đổi' 'khác biệt'
+ 'không hề có một chiếc tai thỏ nào' 'Không sở hữu sự tương đồng'
+ 'Điểm khác biệt' 'nhiều sự khác biệt hơn thế' 'sự khác nhau'
+ 'Điểm khác biệt lớn nhất' 'không được xử lý như' 'hơi lạ'
+ 'hơi dịch lên phía trên một chút' 'có sự khác biệt' 'khác nhau'
+ 'sự khác biệt rõ ràng nhất' 'có sự chênh lệch khá lớn'
+ 'không có tính năng tương tự' 'không có nhiều sự khác biệt']
+
+// Predicates of EQL (searched with keywords: không, chênh, khác):
+['hầu như không nhận được nâng cấp nào về phần cứng'
+ 'Sự chênh lệch về các thông số khác như camera cũng không đáng kể'
+ 'không thấy sự chênh lệch đáng kể'
+ 'sự khác biệt về hiệu suất thực tế là không đáng kể'
+ 'không có nhiều chênh lệch đáng kể' 'gần như không đáng kể'
+ 'không chênh lệch nhau nhiều' 'Không có sự thay đổi lớn'
+ 'Không có sự thay đổi' 'không có sự khác biệt lớn'
+ 'không có sự khác biệt quá lớn' 'không chênh lệch nhiều'
+ 'không khác nhau nhiều' 'nhỉnh hơn nhưng không nhiều'
+ 'không lớn hơn nhiều' 'không có quá nhiều khác biệt'
+ 'không có gì khác biệt' 'không đẹp và đối xứng như' 'không sự khác biệt'
+ 'không hề kém cạnh' 'không có nhiều sự chênh lệch'
+ 'không có nhiều thay đổi' 'không có sự khác biệt gì quá nhiều'
+ 'không có quá nhiều sự khác biệt' 'không có sự khác biệt nhiều'
+ 'không quá chênh lệch' 'không chênh lệch mấy'
+ 'không có nhiều sự khác biệt' 'sang trọng , tinh tế không khác gì'
+ 'không có quá nhiều chênh lệch' 'Không có nhiều sự khác biệt']
