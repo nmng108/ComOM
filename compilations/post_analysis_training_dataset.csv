@@ -800,7 +800,6 @@ Trong khi iPhone 13 Pro được tích hợp 3 cảm biến sau .,
 "Các cảm biến này bao gồm : camera chính , camera góc siêu rộng cùng với camera tele có cùng độ phân giải 12MP .",
 Mặc dù vậy nhưng cả hai model điều có một số điểm chung nhờ sở hữu phần cứng mạnh mẽ .,
 Hãy cùng xem chất lượng hình ảnh chụp từ camera trên hai mẫu iPhone này nhé !,
-1 / Khả năng chụp ảnh phong cảnh và HDR,
 "Trong điều kiện ánh sáng lý tưởng , tất cả các thiết bị ra mắt gần đây đều mang đến chất lượng khá tốt .",
 Không có gì bất ngờ khi khả năng chụp ảnh trên iPhone 13 Pro rất ấn tượng .,
 Tuy nhiên iPhone SE 2022 5G mới khiến chúng ta ngạc nhiên khi tạp ra những hình ảnh thực đẹp mắt và có chất lượng gần giống với mẫu iPhone đắt tiền hơn .,"[{'subject': 'iPhone SE 2022 5G', 'object': 'mẫu iPhone đắt tiền hơn', 'aspect': 'những hình ảnh thực', 'predicate': 'chất lượng gần giống', 'label': 'EQL'}]"
@@ -817,7 +816,6 @@ Trong điều kiện ánh sáng yếu thì chất lượng hình ảnh 
 "Hình ảnh được chụp vào ban đêm không có nhiều ánh sáng xung quanh , trông khá nhiễu vì điện thoại không thể chụp ảnh phơi sáng lâu hơn .",
 "Việc không được trang bị chế độ ban đêm là một thiếu sót trên iPhone SE 2022 , đặc biệt là khi so sánh với các mẫu Android tầm trung .",
 "Các điện thoại giá rẻ như Google Pixel 5A , Galaxy A53 5G . . . được ra mắt gần đây đều được trang bị tính năng này .",
-3 / Chụp ảnh ở chế độ chân dung,
 "Ở khía cạnh này , chiến thắng hoàn toàn thuộc về iPhone 13 Pro .","[{'subject': 'iPhone 13 Pro', 'object': '', 'aspect': 'khía cạnh này', 'predicate': 'chiến thắng hoàn toàn', 'label': 'COM+'}]"
 "Điện thoại cho phép , người dụng sử dụng máy ảnh tele góc rộng hoặc ống kính 3x để tạo khung hình cho các bức ảnh chân dung .",
 Trong khi iPhone SE 2022 chỉ có một góc nhìn từ ống kính của nó .,
@@ -1353,6 +1351,7 @@ Thậm chí nếu chỉ dùng điện thoại cho các nhu cầu cơ bả
 Ưu đãi / bảo hành khi mua điện thoại Samsung Galaxy A24 tại TGDĐ,
 Trên đây là bài viết đánh giá chi tiết về Samsung Galaxy A24 : Camera 50 MP cùng chip MediaTek Helio G99 .,
 Hy vọng bài viết mang đến những thông tin hữu ích với bạn .,
+iPhone 12 Pro Max được trang DisplayMate “ chấm ” là chiếc smartphone có màn hình đẹp nhất hiện nay,"[{'subject': 'iPhone 12 Pro Max', 'object': '', 'aspect': 'màn hình', 'predicate': 'đẹp nhất hiện nay', 'label': 'SUP+'}]"
 "Mới đây , chuyên trang đánh giá màn hình điện thoại DisplayMate đã vừa đưa ra kết luận rằng chiếc smartphone có màn hình đẹp nhất hiện nay không ai khác chính là iPhone 12 Pro Max .","[{'subject': 'iPhone 12 Pro Max', 'object': '', 'aspect': 'màn hình', 'predicate': 'đẹp nhất hiện nay', 'label': 'SUP+'}]"
 iPhone 12 Pro Max được đánh giá là smartphone có màn hình đẹp nhất thời điểm hiện tại,"[{'subject': 'iPhone 12 Pro Max', 'object': '', 'aspect': 'màn hình', 'predicate': 'đẹp nhất thời điểm hiện tại', 'label': 'SUP+'}]"
 "iPhone12 Pro Max là chiếc iPhone có màn hình lớn nhất từ trước đến nay , và đây cũng là chiếc smartphone có chất lượng hiển thị đẹp nhất hiện tại , theo trang chuyên đánh giá màn hình DisplayMate .","[{'subject': 'iPhone12 Pro Max', 'object': '', 'aspect': 'màn hình', 'predicate': 'lớn nhất từ trước đến nay', 'label': 'SUP'}, {'subject': 'iPhone12 Pro Max', 'object': '', 'aspect': 'chất lượng hiển thị', 'predicate': 'đẹp nhất hiện tại', 'label': 'SUP+'}]"
@@ -1652,7 +1651,6 @@ Mỗi điện thoại đều có ưu điểm riêng của mình .,
 Nếu như bạn đang cân nhắc không biết có nên mua điện thoại Samsung Galaxy A24 hay không thì những thông tin dưới đây có thể giúp ích cho bạn .,
 Samsung vừa mới bổ sung cho phân khúc smartphone giá 6 triệu đồng tại Việt Nam với dòng điện thoại Galaxy A24 .,
 Cùng chúng tôi đánh giá và cho mình câu trả lời .,
-1 . Đánh giá thiết kế điện thoại Samsung Galaxy A24,
 "Với điện thoại Samsung Galaxy A24 người sử dụng được sở hữu một chiếc điện thoại với thiết kế thời thượng lấy cảm hứng từ flagship Galaxy S23 series , đặc biệt là mặt lưng của máy gần như giống y hệ S23 tiêu chuẩn .","[{'subject': 'Samsung Galaxy A24', 'object': 'hệ S23 tiêu chuẩn', 'aspect': 'mặt lưng', 'predicate': 'gần như giống y', 'label': 'EQL'}]"
 "Tại Việt Nam , Galaxy A24 được phân phối với 2 phiên bản màu sắc là màu đen và xanh .",
 "Trong đo , phiên bản A24 màu đen được hoàn thiện nhám mang tới bề ngoài trung tính cao cấp , trong khi đó phiên bản A24 xanh lại được hoàn thiện với bề mặt bóng cùng hiệu ứng đổi màu theo góc nhìn đưa tới bề ngoài trẻ trung năng động .",
@@ -1661,13 +1659,11 @@ Tùy phong cách mà người sử dụng có thể lựa chọn cho mình phiê
 "Bên cạnh đó , điện thoại này cũng rất tiện dùng khi sử dụng khóa vân tay tích hợp vào nút nguồn giúp mở khóa màn hình dễ dàng hơn .","[{'subject': 'điện thoại này', 'object': '', 'aspect': 'mở khóa màn hình', 'predicate': 'dễ dàng hơn', 'label': 'COM+'}]"
 Đồng thời việc duy trì jack tai nghe 3.5mm và sử dụng cổng sạc USB Type-C cũng mang tới cho người sử dụng nhiều tiện dụng khi sử dụng .,
 Đáng tiếc là Samsung Galaxy A24 không được tích hợp khả năng kháng bụi nước .,
-2 . Đánh giá chất lượng màn hình hiển thị của điện thoại Samsung Galaxy A24,
 "Samsung đưa tới cho Galaaxy A24 màn hình Super AMOLED 6,5 inch với độ phân giải 10880 x 2340 pixel đưa tới khả năng hiển thị sắc nét ấn tượng .",
 Và với độ sáng màn hình lên tới 1000 nit tối đa thì đây cũng là một trong những điện thoại có màn hình tốt nhất trong phân khúc giá bán .,"[{'subject': 'đây', 'object': '', 'aspect': 'màn hình', 'predicate': 'tốt nhất trong phân khúc giá bán', 'label': 'SUP+'}]"
 Samsung Galaxy A24 với màn hình xịn xò .,
 "Đặc biệt , với tốc độ làm mới màn hình là 90Hz , mọi thao tác sử dụng trên màn hình đặc biệt là các chuyển động trong game trên màn hình của điện thoại Samsung Galaxy A24 cũng đều hết sức mượt mà .",
 Đáng tiếc duy nhất là máy không có thiết kế camera nằm trong màn hình mà là thiết kế U-Infinity – đây là điều khiến điện thoại Samsung này có mặt trước trông hơi “ giá rẻ ” so với các điện thoại khác trong phân khúc như Xiaomi Redmi Note 12 chẳng hạn .,"[{'subject': 'điện thoại Samsung này', 'object': 'các điện thoại khác trong phân khúc', 'aspect': 'mặt trước', 'predicate': 'trông hơi “ giá rẻ ”', 'label': 'COM-'}, {'subject': 'điện thoại Samsung này', 'object': 'Xiaomi Redmi Note 12', 'aspect': 'mặt trước', 'predicate': 'trông hơi “ giá rẻ ”', 'label': 'COM-'}]"
-3 . Đánh giá hiệu năng xử lý của điện thoại Samsung Galaxy A24,
 Samsung trang bị cho Galaxy A24 con chip MediaTek HeliO G99 được sản xuất trên tiến trình 6nm và là một trong những CPU mạnh m ẽ hàng đầu trong phân khúc tầm trung – giá rẻ trên thi trường hiện nay .,"[{'subject': 'MediaTek HeliO G99', 'object': '', 'aspect': '', 'predicate': 'mạnh m ẽ hàng đầu trong phân khúc tầm trung – giá rẻ trên thi trường hiện nay', 'label': 'SUP+'}]"
 Samsung Galaxy A24 sở hữu cấu hình mạnh mẽ .,
 "Tại Việt Nam , Galaxy A24 được bán kèm RAM tùy chọn 6GB hoặc 8GB đi kèm với bộ nhớ trong 128GB .",
@@ -1680,7 +1676,6 @@ Dưới đây là điểm hiệu năng của A24 trên một số thang đo hi�
 "Điều này giúp máy có được khả năng xử lý tốt các game mobile phổ biến như Liên Quân Mobile , PUBG Mobile …",
 Thỏi pin 5000 mAh của A24 cũng làm việc rất tốt để đưa tới thời lượng sử dụng máy thoải mái cả ngày dài cho người sử dụng .,
 Và công nghệ sạc nhanh 25W cũng giúp tiết kiệm đáng kể thời gian sạc .,
-4 . Đánh giá camera trên điện thoại Samsung Galaxy A24,
 "Điện thoại A24 sở hữu cụm camera chính bao gồm 3 ống kính gồm cảm biến chính góc rộng 50MP , cảm biến góc siêu rộng 5MP và cảm biến macro 2MP .",
 "Với trang bị này , điện thoại A24 có được khả năng đưa tới những bức ảnh với độ sắc nét ấn tượng đi kèm với đó là người sử dụng có thể chụp đa dạng các loại ảnh khác nhau để đáp ứng nhu cầu lưu dữ khoảnh khắc cuộc sống .",
 Samsung Galaxy A24 sở hữu cụm 3 camera .,
@@ -2475,7 +2470,6 @@ Thực sự thì đa nhiệm trên dòng iPhone được rất nhiều người 
 Bạn có thể mở nhiều tác vụ cùng lúc và chuyển qua lại giữa chúng mà không cần phải tải lại .,
 Khi nhìn vào thông số thì bạn sẽ khó nhận biết được sức mạnh của chiếc máy .,
 "Chính vì vậy , nếu bạn muốn dễ dàng nhận biết về hiệu năng của iPhone 14 thì hãy kiểm tra qua phần mềm benchmark quen thuộc .",
-2.1 . Kiểm tra hiệu năng iPhone 14 thông qua phần mềm benchmark,
 Như thường lệ thì phần kiểm tra đầu tiên là phần Antutu benchmark .,
 "Với phần mềm này , thì iPhone 14 đạt điểm cũng khá cao lên đến 830.779 điểm .",
 "Trong đó , thì điểm CPU đạt 212.289 điểm , MEM đạt 134.956 điểm , GPU đạt 355.190 điểm và đạt 128.344 điểm UX .",
@@ -2484,7 +2478,6 @@ Nếu so sánh với một số chipset khác như Dimensity 9000 hay Snapdragon
 "Tiếp theo chính là phần mềm Geekbench 5 , đây là phần mềm thường dùng để đo hiệu suất hoạt động đa nhân và đơn nhân của CPU .",
 Với bài kiểm tra này thì iPhone 14 đạt được 4.668 điểm đa nhân và 1.685 điểm đơn nhân .,
 Số điểm này cao hơn rất nhiều so với Snapdragon 8 Gen 1 ( 3.578 điểm đa nhân và 1.238 điểm đơn nhân ) và Dimensity 9000 ( 4.207 điểm đa nhân và 1.264 điểm đơn nhân ) .,"[{'subject': '', 'object': 'Snapdragon 8 Gen 1', 'aspect': 'Số điểm', 'predicate': 'cao hơn rất nhiều', 'label': 'COM+'}, {'subject': '', 'object': 'Dimensity 9000', 'aspect': 'Số điểm', 'predicate': 'cao hơn rất nhiều', 'label': 'COM+'}]"
-2.2 . Hiệu năng qua nhiều tựa game thực tế,
 "Đầu tiên , với tựa game đình đám hiện nay là Liên Quân Mobile , với đồ họa đẹp mắt , lối chơi đa dạng và đặc biệt là không cần hiệu năng phải quá mạnh , nên đây là tựa game có số lượng người chơi đông đảo nhất hiện nay .",
 Đối với tựa game này thì không cần kiểm tra mình cũng biết iPhone 14 có thể dễ dàng cân được với mức đồ họa cao .,
 "Thực tế trải nghiệm cho thấy rằng , chiếc máy đáp ứng được một cách dễ dàng với đồ họa siêu đẹp , màu sắc sống động , chi tiết tốt và tốc độ khung hình được duy trì ở mức 60FPS – 61FPS , không có hiện tượng giật lag .",
